@@ -47,6 +47,7 @@ def search(request):
 
 
 
+
 def about(request):
     return render(request, 'shop/about.html')
 
